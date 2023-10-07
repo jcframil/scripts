@@ -1,2 +1,2 @@
-# scripts
-Useful scripts for lazy people
+# Scripts
+Useful scripts for lazy people 🦥
